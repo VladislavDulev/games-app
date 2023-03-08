@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Star Craft 2",
+    "url": "https://images.firstpost.com/wp-content/uploads/2017/11/StarCraft-II-380.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 2,
+    "name": "Half Life",
+    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg?t=1666824272",
+    "category": "Top"
+  },
+  {
+    "id": 3,
+    "name": "Fifa 23",
+    "url": "https://www.allkeyshop.com/blog/wp-content/uploads/fifa-23-editions_2.webp",
+    "category": "New"
+  },
+  {
+    "id": 4,
+    "name": "Battlefield 2042",
+    "url": "https://cdn.wccftech.com/wp-content/uploads/2021/06/WCCFbattlefield20423.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 5,
+    "name": "Battlefield 1942",
+    "url": "https://www.dsogaming.com/wp-content/uploads/2017/09/12312-1038x576.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 6,
+    "name": "Dota 2",
+    "url": "https://apicms.thestar.com.my/uploads/images/2021/04/18/1116052.jpeg",
+    "category": "Top"
+  },
+  {
+    "id": 7,
+    "name": "Mafia 1",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/40990/header.jpg?t=1661895807",
+    "category": "Top"
+  },
+  {
+    "id": 8,
+    "name": "GTA Vice City",
+    "url": "https://staticg.sportskeeda.com/editor/2021/04/44311-16183138432675-800.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 9,
+    "name": "Command and conquer generals zero hour",
+    "url": "https://gepig.com/game_cover_460w/1008.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 10,
+    "name": "Unreal Tournament 3",
+    "url": "https://www.trueachievements.com/gameimage/Unreal-Tournament-3_2.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 11,
+    "name": "Quake 3 Arena",
+    "url": "https://preview.redd.it/elmi6llixdj71.png?width=631&format=png&auto=webp&s=c22e8e75d6d249f692a3dd76cdad220c3e197775",
+    "category": "Top"
+  },
+  {
+    "id": 12,
+    "name": "Diablo 2 Resurrected",
+    "url": "https://s1.gaming-cdn.com/images/products/6918/616x353/diablo-ii-resurrected-resurrected-pc-game-battle-net-cover.jpg?v=1655716362",
+    "category": "Top"
+  },
+  {
+    "id": 13,
+    "name": "Need For Speed 3 Hot Pursuit",
+    "url": "https://s3-eu-west-1.amazonaws.com/games.snapshot/12329/46968-NeedforSpeed3HotPursuit.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 14,
+    "name": "Need for Speed: Porsche Unleashed",
+    "url": "https://gamehag.com/img/uploaded/RJtDuUDbYGcyjtiHuvoYr6daRDNFlj.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 15,
+    "name": "Lion King - Sega",
+    "url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_thelionking_thumb.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 16,
+    "name": "Street Fighter",
+    "url": "https://howlongtobeat.com/games/9640-streetfighter-ii-wii_large.jpg?width=250",
+    "category": "Top"
+  },
+  {
+    "id": 17,
+    "name": "God Of War Ragnarok",
+    "url": "https://dailymetadose.com/wp-content/uploads/2022/11/god-of-war-ragnarok-cover-wallpaper-poster-1.jpg",
+    "category": "New"
+  },
+  {
+    "id": 18,
+    "name": "Warzone 2",
+    "url": "https://gumlet.assettype.com/afkgaming%2F2022-10%2Fda00d72f-41f3-4ce9-8bef-d8db4e6c1e66%2FCall_of_Duty_Warzone__1_.jpg?compress=true&dpr=1&w=1200",
+    "category": "New"
+  },
+  {
+    "id": 19,
+    "name": "Football Manager 2023",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1904540/header.jpg?t=1668082258",
+    "category": "New"
+  },
+  {
+    "id": 20,
+    "name": "Fortnite Season 5",
+    "url": "https://imageio.forbes.com/specials-images/imageserve/5fc737d83cb9be2bbb9ff54c/Fornite-S5/960x0.jpg?format=jpg&width=960",
+    "category": "New"
+  },
+  {
+    "id": 21,
+    "name": "Need For Speed Unbound",
+    "url": "https://mms.businesswire.com/media/20221006005172/en/1593262/4/NFS_Standard_Master_MF_220825_16_9_Plan_C_Flat_Logo.jpg",
+    "category": "New"
+  },
+  {
+    "id": 22,
+    "name": "WarCraft 3",
+    "url": "https://s2.gaming-cdn.com/images/products/52/616x353/warcraft-3-reign-of-chaos-pc-game-battle-net-cover.jpg?v=1653561726",
+    "category": "Top"
+  },
+  {
+    "id": 23,
+    "name": "Monster Hunter Rise",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/header.jpg?t=1669252485",
+    "category": "New"
+  },
+  {
+    "id": 24,
+    "name": "Nobody Saves the World",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1432050/header.jpg?t=1660050808",
+    "category": "New"
+  }
+]
